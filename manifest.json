@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SquirrelPAK MC16",
-  "version": "v0.7.0+1.16.5",
+  "version": "v0.8.0+1.16.5",
   "author": "",
   "files": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "projectID": 328085,
-      "fileID": 3386319,
+      "fileID": 3406857,
       "required": true
     },
     {
@@ -61,12 +61,12 @@
     },
     {
       "projectID": 342584,
-      "fileID": 3405025,
+      "fileID": 3406959,
       "required": true
     },
     {
       "projectID": 450659,
-      "fileID": 3400403,
+      "fileID": 3407325,
       "required": true
     },
     {
@@ -131,7 +131,7 @@
     },
     {
       "projectID": 486392,
-      "fileID": 3389159,
+      "fileID": 3406855,
       "required": true
     },
     {
@@ -160,6 +160,11 @@
       "required": true
     },
     {
+      "projectID": 314905,
+      "fileID": 3394818,
+      "required": true
+    },
+    {
       "projectID": 421850,
       "fileID": 3386962,
       "required": true
@@ -172,6 +177,11 @@
     {
       "projectID": 316582,
       "fileID": 3338002,
+      "required": true
+    },
+    {
+      "projectID": 245287,
+      "fileID": 3190374,
       "required": true
     },
     {
@@ -310,6 +320,11 @@
       "required": true
     },
     {
+      "projectID": 289412,
+      "fileID": 3403160,
+      "required": true
+    },
+    {
       "projectID": 231484,
       "fileID": 3368022,
       "required": true
@@ -335,6 +350,11 @@
       "required": true
     },
     {
+      "projectID": 335673,
+      "fileID": 3250771,
+      "required": true
+    },
+    {
       "projectID": 296686,
       "fileID": 3390492,
       "required": true
@@ -347,6 +367,11 @@
     {
       "projectID": 347381,
       "fileID": 3379752,
+      "required": true
+    },
+    {
+      "projectID": 376351,
+      "fileID": 3146365,
       "required": true
     },
     {
@@ -471,7 +496,7 @@
     },
     {
       "projectID": 223852,
-      "fileID": 3180569,
+      "fileID": 3402515,
       "required": true
     },
     {
@@ -495,6 +520,11 @@
       "required": true
     },
     {
+      "projectID": 441114,
+      "fileID": 3406158,
+      "required": true
+    },
+    {
       "projectID": 453925,
       "fileID": 3231567,
       "required": true
@@ -507,6 +537,11 @@
     {
       "projectID": 241160,
       "fileID": 3098229,
+      "required": true
+    },
+    {
+      "projectID": 309674,
+      "fileID": 3376819,
       "required": true
     },
     {

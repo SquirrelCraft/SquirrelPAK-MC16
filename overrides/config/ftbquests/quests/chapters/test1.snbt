@@ -1,0 +1,155 @@
+{
+	id: "4CA8F69F274FC004"
+	group: "3A6953F2E3325B8B"
+	order_index: 0
+	filename: "test1"
+	title: "Welcome!"
+	icon: "minecraft:grass_block"
+	subtitle: ["Welcome to the PAK!"]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.0d
+			y: -1.0d
+			description: [
+				"Find the center of the map"
+				"0,77,0"
+			]
+			id: "62622A298A92CB42"
+			tasks: [{
+				id: "660C1146692FD611"
+				type: "location"
+				title: "Centered"
+				icon: "minecraft:compass"
+				dimension: "minecraft:overworld"
+				ignore_dimension: false
+				position: [I;
+					0
+					77
+					0
+				]
+				size: [I;
+					1
+					1
+					1
+				]
+			}]
+			rewards: [{
+				id: "32E63343F85AE3ED"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.5d
+			description: ["Give me 30!"]
+			id: "187237D3EDB8C266"
+			tasks: [{
+				id: "42B6486E75CE4912"
+				type: "xp"
+				value: 30L
+				points: false
+			}]
+			rewards: [{
+				id: "4C130FD57520D4EF"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Heads Up"
+			x: -1.0d
+			y: -4.5d
+			id: "0FEDB9484AB259A5"
+			tasks: [{
+				id: "36412040B546FCF1"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "538AB98CF1CF9864"
+				type: "item"
+				item: "minecraft:diamond_block"
+			}]
+		}
+		{
+			title: "Shirt on"
+			x: 1.5d
+			y: -4.5d
+			dependencies: ["0FEDB9484AB259A5"]
+			id: "3C64BC7CA44670C0"
+			tasks: [{
+				id: "34A741F7D37988F4"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "2D75BCDAC49C837D"
+				type: "item"
+				item: "minecraft:diamond_block"
+			}]
+		}
+		{
+			title: "Totaly Pants"
+			x: 4.0d
+			y: -4.5d
+			dependencies: ["3C64BC7CA44670C0"]
+			id: "40581867163B7181"
+			tasks: [{
+				id: "3E88B37E41C2A8DD"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Blue Shoes"
+			x: 6.5d
+			y: -4.5d
+			dependencies: ["40581867163B7181"]
+			hide: true
+			id: "180BE81841B8DD98"
+			tasks: [{
+				id: "0086BC1D6A9E15E8"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "76BC9033B76DF865"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+		}
+	]
+}
