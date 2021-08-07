@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SquirrelPAK MC16",
-  "version": "0.8.3+1.16.5",
+  "version": "0.8.5+1.16.5",
   "author": "",
   "files": [
     {
@@ -105,6 +105,11 @@
       "required": true
     },
     {
+      "projectID": 244049,
+      "fileID": 3383734,
+      "required": true
+    },
+    {
       "projectID": 404465,
       "fileID": 3415091,
       "required": true
@@ -165,6 +170,11 @@
       "required": true
     },
     {
+      "projectID": 399558,
+      "fileID": 3285196,
+      "required": true
+    },
+    {
       "projectID": 314904,
       "fileID": 3038811,
       "required": true
@@ -182,6 +192,11 @@
     {
       "projectID": 314906,
       "fileID": 3409573,
+      "required": true
+    },
+    {
+      "projectID": 325492,
+      "fileID": 3296489,
       "required": true
     },
     {
@@ -207,6 +222,11 @@
     {
       "projectID": 264231,
       "fileID": 3361256,
+      "required": true
+    },
+    {
+      "projectID": 235279,
+      "fileID": 3376782,
       "required": true
     },
     {
@@ -237,6 +257,11 @@
     {
       "projectID": 231951,
       "fileID": 3377691,
+      "required": true
+    },
+    {
+      "projectID": 267602,
+      "fileID": 3137659,
       "required": true
     },
     {
@@ -357,6 +382,11 @@
     {
       "projectID": 443723,
       "fileID": 3396844,
+      "required": true
+    },
+    {
+      "projectID": 296676,
+      "fileID": 3217589,
       "required": true
     },
     {
