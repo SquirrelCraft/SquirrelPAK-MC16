@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SquirrelPAK MC16",
-  "version": "0.6.1+1.16.5",
+  "version": "0.6.2+1.16.5",
   "author": "",
   "files": [
     {
@@ -377,6 +377,11 @@
     {
       "projectID": 363569,
       "fileID": 3200515,
+      "required": true
+    },
+    {
+      "projectID": 378609,
+      "fileID": 3233102,
       "required": true
     },
     {
