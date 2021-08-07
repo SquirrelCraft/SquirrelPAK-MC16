@@ -3,6 +3,36 @@ SquirrelPAK MC16 Change Log
 ================================================================================
 
 
+SquirrelPAK MC16 Beta 8.2
+================================================================================
+File Version 0.8.2+1.16.5
+
+We removed Nekos Enchanted Books due to a server side issue. And started to add Quests! Added two more mods. When we hit Beta 9 there will be no more new mods added. Will e mod updates and config changes only. 
+
+
+Added:
+------------------------------------------- 
+OpenBlocks Elevator
+Default Options
+PackMenu
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+Nekos Enchanted Books
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+supermartijn642corelib-1.0.10a-mc1.16.5 to 1.0.11a
+------------------------------------------- 
+
+
+
+
+
 
 SquirrelPAK MC16 Beta 8.0
 ================================================================================
