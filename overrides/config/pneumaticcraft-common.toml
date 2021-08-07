@@ -277,6 +277,8 @@
 	#Default thermal resistance for fluid blocks
 	#Range: 4.9E-324 ~ 1.7976931348623157E308
 	fluidThermalResistance = 100.0
+	#Automatically register heat properties for all detected modded fluids based on their self-defined temperature? (note: vanilla lava and water are always added)
+	addDefaultFluidEntries = true
 	#Default thermal resistance for solid blocks
 	#Range: 4.9E-324 ~ 1.7976931348623157E308
 	blockThermalResistance = 500.0
