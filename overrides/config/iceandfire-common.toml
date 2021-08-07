@@ -3,9 +3,9 @@
 
 	[Generation.Ores]
 		#Whether to generate copper ore or not
-		"Generate Copper Ore" = true
+		"Generate Copper Ore" = false
 		#Whether to generate silver ore or not
-		"Generate Silver Ore" = true
+		"Generate Silver Ore" = false
 		#Whether to generate sapphire ore or not
 		"Generate Sapphire Ore" = true
 		#Whether to generate amethyst ore or not
@@ -392,10 +392,10 @@
 		"Spawn Amphitheres" = true
 		#Amphithere spawn weight. Lower = lower chance to spawn
 		#Range: 1 ~ 10000
-		"Amphithere Spawn Weight" = 1000
+		"Amphithere Spawn Weight" = 700
 		#Maximum amphithere health
 		#Range: 1.0 ~ 10000.0
-		"Amphithere Max Health" = 150
+		"Amphithere Max Health" = 500
 		#Amphithere attack strength
 		#Range: 1.0 ~ 10000.0
 		"Amphithere Attack Strength" = 7.0

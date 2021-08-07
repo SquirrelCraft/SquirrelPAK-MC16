@@ -12,5 +12,5 @@ UpdateWorldIcon = true
 DisableCamera = true
 #Screenshot resolution
 #Allowed Values: NATIVE, NORMAL, R4K, R8K
-Resolution = "NORMAL"
+Resolution = "NATIVE"
 

@@ -221,7 +221,7 @@
 		pegasus_secondary_spawn_max_in_group = 1
 		#Weighted value that determines how often a group of this entity will spawn in its biome compared to other creatures.
 		#Range: 0 ~ 500
-		pegasus_secondary_spawn_weight = 10
+		pegasus_secondary_spawn_weight = 7
 
 	#entity: kirin
 	[ultimate_unicorn_mod.kirin]

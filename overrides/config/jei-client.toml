@@ -6,7 +6,7 @@
 	#Debug mode enabled
 	DebugMode = false
 	#Display search bar in the center
-	CenterSearch = false
+	CenterSearch = true
 	#Max. recipe gui height
 	#Range: > 175
 	RecipeGuiHeight = 350
@@ -33,7 +33,7 @@
 	TagSearchMode = "REQUIRE_PREFIX"
 	#Search mode for Creative Tab Names (prefix: %)
 	#Allowed Values: ENABLED, REQUIRE_PREFIX, DISABLED
-	CreativeTabSearchMode = "DISABLED"
+	CreativeTabSearchMode = "REQUIRE_PREFIX"
 	#Search mode for Colors (prefix: ^)
 	#Allowed Values: ENABLED, REQUIRE_PREFIX, DISABLED
 	ColorSearchMode = "DISABLED"
