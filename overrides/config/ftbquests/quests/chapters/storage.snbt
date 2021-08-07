@@ -107,6 +107,12 @@
 						}
 					}
 				}
+				{
+					id: "77716F52D12FE0D3"
+					type: "item"
+					item: "minecraft:torch"
+					count: 64
+				}
 			]
 		}
 	]
