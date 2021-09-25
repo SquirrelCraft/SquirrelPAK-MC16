@@ -3,6 +3,84 @@ SquirrelPAK MC16 Change Log
 ================================================================================
 
 
+SquirrelPAK MC16 Beta 8.7
+================================================================================
+File Version 0.8.7+1.16.5
+
+In this update we updated existing mods only, a lot of them. Took way to much
+time to download and test. Testing on our private server is going well. we may
+hit v1.0 in a few weeks. (Re-release of 0.8.6 due to a export bug)
+
+When we hit Beta 9 there will be no more new mods added. Will be mod updates and config changes only. 
+
+
+Added:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+architectury-1.20.29-forge to 1.23.33
+bwncr-1.16.4-3.9.16 to 1.16-0.4.0
+blockcarpentry-1.16-0.3.6 to 1.16-0.4.0
+castle_dungeons-2.3-1.16.5-forge to 2.6-1.16.5-forge.
+citadel-1.7.1-1.16.5 to 1.8.1-1.16.5
+collective-1.16.5-2.50 to 1.16.5-2.64
+Controlling-7.0.0.23 to 7.0.0.24
+CookingForBlockheads_1.16.5-9.3.3 to 1.16.5-9.3.4
+corpse-1.16.5-1.0.5 to 1.16.5-1.0.6
+create-mc1.16.5_v0.3.2c to 1.16.5_v0.3.2d
+create-stuff-additions1.16.5_v1.0.6 to 1.16.5_v1.1.2
+curios-forge-1.16.5-4.0.5.2 to 1.16.5-4.0.5.3
+flywheel-1.16-0.2.2 to 1.16-0.2.4
+ForgeEndertech-1.16.5-7.2.0.0-build.0177 to 1.16.5-7.2.1.0-build.0180
+ftb-chunks-forge-1605.3.1-build.41 to 
+ftb-library-forge-1605.3.1-build.58 to 1605.3.3-build.71.
+ftb-quests-forge-1605.3.3-build.49 to 1605.3.5-build.64
+ftb-ranks-1605.1.4-build.9-forge to 1605.1.4-build.12
+ftb-teams-forge-1605.2.1-build.20 to 1605.2.2-build.32
+iceandfire-2.1.8-1.16.5 to 2.1.9-1.16.5
+dragonseeker-1.0 to 1.1
+ImmersiveEngineering-1.16.5-5.0.2-137 to 1.16.5-5.0.3-138
+ImmersivePetroleum-1.16.5-3.3.0-5 to 1.16.5-3.3.0-6
+immersiveposts-1.16.5-4.1.1 to 1.16.5-4.2.2
+jei-1.16.5-7.7.1.118 to 1.16.5-7.7.1.121
+JustEnoughResources-1.16.5-0.12.1.121 to 1.16.5-0.12.1.128
+AdLods-1.16.5-4.1.8.0-build.0177 to 1.16.5-4.1.9.0-build.0180
+mcw-windows-1.0.3-mc1.16.5 to 2.0.0-mc1.16.5
+Mantle-1.16.5-1.6.115 to 1.16.5-1.6.123
+byg-1.3.0 to 1.3.4
+pamhc2foodextended-1.16.3-1.0.2 to 1.16.3-1.0.4
+Patchouli-1.16.4-53.1 to 1.16.4-53.2
+Placebo-1.16.4-4.5.0 to 1.16.5-4.6.0
+pneumaticcraft-1.16.5-2.13.3-211 to 1.16.5-2.14.2-247
+voicechat-forge-1.16.5-1.7.3 to 1.16.5-1.8.0
+smallships-1.16.5-1.10.0 to 1.16.5-1.10.1
+SoL-Carrot-1.16.5-1.10.0 to 1.16.5-1.10.1
+twilightforest-1.16.5-4.0.515-universal to 1.16.5-4.0.546
+TConstruct-1.16.5-3.1.1.252.to 1.16.5-3.1.2.265
+toms_storage-1.2.16 to 1.2.18
+villagespawnpoint_1.16.5-1.6 to 1.16.5-1.8
+Waystones_1.16.5-7.6.2 to 1.16.5-7.6.3
+BetterPortals-1.16.4-0.3.7 to 1.16.4-0.3.8
+
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+
+
+================================================================================
+SquirrelPAK MC16 Change Log
+================================================================================
+
+
 SquirrelPAK MC16 Beta 8.5
 ================================================================================
 File Version 0.8.5+1.16.5
